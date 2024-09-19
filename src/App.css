@@ -1,0 +1,35 @@
+* {
+  /* font-family: "Josefin Sans", sans-serif; */
+  /* font-family: "Signika Negative", sans-serif; */
+  font-family: "Nunito", sans-serif;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  text-align: justify;
+  /* background-color: red;  */
+  /* width: 100%; */
+}
+::-webkit-scrollbar {
+  display: none;
+}
+span,
+li {
+  font-size: 18px;
+}
+#heading-background {
+  /* background-image: url("D:/projects/trinai/public/Images/title.jpg");
+  padding: 0px 120px 0px 15px;
+  width: 300px;
+  font-size: 24pxt;
+  line-height: 32px;
+
+  height: 32px;
+
+  display: inline-block;
+  background-size: cover; */
+  color: #232323;
+}
+.header-margin-bottom {
+  /* margin-top: 100px; */
+  z-index: -999;
+}
